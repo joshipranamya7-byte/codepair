@@ -1,0 +1,14 @@
+{
+  "name": "codepair-server",
+  "type": "module",
+  "scripts": { "dev": "node --watch index.js", "start": "node index.js" },
+  "dependencies": {
+    "express": "^4.19.2",
+    "nanoid": "^5.0.7",
+    "ws": "^8.18.0",
+    "yjs": "^13.6.18",
+    "y-protocols": "^1.0.6",
+    "lib0": "^0.2.97",
+    "y-websocket": "2.0.4"
+  }
+}
